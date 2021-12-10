@@ -4,7 +4,7 @@ https://unix.stackexchange.com/questions/52215/determine-the-size-of-a-block-dev
 example:
 `blockdev --getsize64 /dev/nvme0n1`
 
-# 1. createQcow2( originalDiskSize )
+# 1. createQcow2( originalDisk.Size )
 https://www.ibm.com/docs/en/linux-on-systems?topic=commands-qemu-image-command
 
 example:
